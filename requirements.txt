@@ -1,0 +1,7 @@
+pandas
+adal
+requests
+uuid
+python-dotenv
+numpy
+wget
